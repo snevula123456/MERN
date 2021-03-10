@@ -18,11 +18,7 @@
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^2.3.0",
     "uuid": "^8.3.2",
-    "web-vitals": "^1.0.1",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "web-vitals": "^1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
