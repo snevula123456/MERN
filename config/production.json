@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://shyam123:shyam123@devconnector-shard-00-00.1lcgo.mongodb.net:27017,devconnector-shard-00-01.1lcgo.mongodb.net:27017,devconnector-shard-00-02.1lcgo.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-o2pr1r-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubclientSecret": "1ca2e28e733839329df9f21ed58f8ad7bf94d39c",
+  "githubclientId": "b268fa5a7824174cad5d"
+}
